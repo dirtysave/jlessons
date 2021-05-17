@@ -1,3 +1,5 @@
+package lesson1;
+
 import lesson1.*;
 
 public class MainClass {
